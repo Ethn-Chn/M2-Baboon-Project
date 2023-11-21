@@ -11,7 +11,7 @@ Since completing my Master's thesis until now, additional data has been analyzed
 
 To successfully run the Bayesian model included in our code, it is essential to have JAGS (Just Another Gibbs Sampler) installed on your system. JAGS is utilized for Bayesian analysis and is a crucial component for executing the model.
 
-Please be aware that running the Bayesian model can be time-consuming. To save you from the lengthy process of installation and waiting for the model to run, I have provided the results directly in the Bayesian_results.csv file. This file contains the output of our Bayesian analysis and can be consulted for a quick overview of the model's results.
+Please be aware that running the Bayesian model can be time-consuming. To save you from the lengthy process of installation and waiting for the model to run, I have provided the results directly in the Bayesian_results.csv file. This file contains the output of the Bayesian analysis and can be consulted for a quick overview of the model's results.
 
 To download JAGS, please visit the file page of the mcmc-jags project on SourceForge: https://mcmc-jags.sourceforge.io/
 
@@ -34,9 +34,9 @@ Depuis la finalisation de mon rapport de Master 2 jusqu'à aujourd'hui, de nouve
 
 ## Note Importante sur l'Exécution du Modèle Bayésien
 
-Pour exécuter avec succès le modèle bayésien inclus dans notre code, il est essentiel d'avoir installé JAGS (Just Another Gibbs Sampler) sur votre système. JAGS est utilisé pour l'analyse bayésienne et est un composant crucial pour l'exécution du modèle.
+Pour exécuter avec succès le modèle bayésien inclus dans le code, il est essentiel d'avoir installé JAGS (Just Another Gibbs Sampler) sur votre système. JAGS est utilisé pour l'analyse bayésienne et est un composant crucial pour l'exécution du modèle.
 
-Veuillez noter que l'exécution du modèle bayésien peut être longue. Pour vous éviter le processus d'installation et d'attente, nous avons fourni directement les résultats dans le fichier Bayesian_results.csv. Ce fichier contient la sortie de notre analyse bayésienne et peut être consulté pour un aperçu rapide des résultats du modèle sans avoir besoin de l'exécuter.
+Veuillez noter que l'exécution du modèle bayésien peut être longue. Pour vous éviter le processus d'installation et d'attente, j'ai fourni directement les résultats dans le fichier Bayesian_results.csv. Ce fichier contient la sortie de l'analyse bayésienne et peut être consulté pour un aperçu rapide des résultats du modèle sans avoir besoin de l'exécuter.
 
 Pour télécharger JAGS, veuillez visiter la page de fichiers du projet mcmc-jags sur SourceForge : https://mcmc-jags.sourceforge.io/
 
