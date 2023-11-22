@@ -24,6 +24,7 @@ To download JAGS, please visit the file page of the mcmc-jags project on SourceF
 - `Script_Python.ipynb`: Python script used for data analysis or processing.
 - `Script_R.R`: R script for statistical analysis or data processing.
 - `Project_Report.pdf`: Report detailing the project.
+- `requirements.txt` : Contains python packages needed to run the code locally
 
 # M2-Baboon-Project
 Estimating Chacma baboon population characteristics in the Garden Route National Park (South Africa) from opportunistic camera-trap data
@@ -52,3 +53,4 @@ Pour télécharger JAGS, veuillez visiter la page de fichiers du projet mcmc-jag
 - `Script_Python.ipynb`: Script Python utilisé pour l'analyse ou le traitement des données.
 - `Script_R.R`: Script R pour l'analyse statistique ou le traitement des données.
 - `Project_Report.pdf`: Rapport détaillant la totalité du projet.
+- - `requirements.txt` : Contient les packages python nécessaire au fonctionnement du script en local.
