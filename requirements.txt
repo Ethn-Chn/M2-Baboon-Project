@@ -1,0 +1,10 @@
+pandas
+seaborn
+matplotlib
+geopandas
+scipy
+geopy
+imageio==2.*
+scikit-learn
+numpy
+openpyxl
