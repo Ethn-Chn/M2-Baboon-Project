@@ -18,16 +18,18 @@ To download JAGS, please visit the file page of the mcmc-jags project on SourceF
 
 ## Repository Structure
 
-- `/R`: Original R scripts and notebooks.
-- `/Python`: Transcribed Python scripts.
-- `/Data`: Dataset.
+- `/data`: Contains the data used in the project.
+  - `/CMR`: Contains all history of capture mark recapture made during picture analysis
+  - `/QGIS_data` : Contains all necessary shapefiles to create maps. Shapefiles have been created with QGis 3.32
+- `Script_Python.ipynb`: Python script used for data analysis or processing.
+- `Script_R.R`: R script for statistical analysis or data processing.
+- `Project_Report.pdf`: Report detailing the project.
 
 # M2-Baboon-Project
 Estimating Chacma baboon population characteristics in the Garden Route National Park (South Africa) from opportunistic camera-trap data
 
 Ce projet vise à exploiter les pièges photographiques pour surveiller la biodiversité, en se concentrant sur le Babouin Chacma dans la région nord de Knysna, en Afrique du Sud. L'objectif principal est de développer un modèle pour évaluer les caractéristiques d'une population non marquée, en utilisant des images pour identifier les individus et analyser leurs interactions sociales et leur répartition. 
 Le rapport complet et les documents associés sont disponibles dans le dépôt du projet. Le projet a été initialement codé en R (avec RStudio) et a par la suite été transcrit par moi-même en Python dans le but de m'entrainer.
-
 
 ## Contexte
 
@@ -44,6 +46,9 @@ Pour télécharger JAGS, veuillez visiter la page de fichiers du projet mcmc-jag
 
 ## Structure du Répertoire
 
-- `/R`: Scripts et notebooks R originels.
-- `/Python`: Scripts Python transcrits.
-- `/Data`: Jeu de données.
+- `/data`: Contient les données utilisées dans le projet.
+  - `/CMR`: Contient les histoires de capture-marquage-recapture faites durant l'analyse des photos de pièges photographiques.
+  - `/QGIS_data` : Contient les données shapefiles nécessaires pour la création des cartes du projet. Les shapefiles ont été créés avec QGIS 3.32.
+- `Script_Python.ipynb`: Script Python utilisé pour l'analyse ou le traitement des données.
+- `Script_R.R`: Script R pour l'analyse statistique ou le traitement des données.
+- `Project_Report.pdf`: Rapport détaillant la totalité du projet.
