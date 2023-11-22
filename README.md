@@ -6,7 +6,7 @@ The complete report and related materials are available in the project's reposit
 
 ## Background
 Datas used in this project consist of photographs from camera traps, provided by SANParks (South African National Parks). I personally analyzed these photos to create a usable dataset, aimed at addressing our research question.
-Since completing my Master's thesis until now, additional data has been analyzed and slight changes have been made to the code. Although the overall project remains the same, it is important to note that some results obtained in the R and Python scripts may differ from those in the report.
+Since completing my Master's thesis until now, additional data has been analyzed and slight changes have been made to the code. Although the overall project remains the same, it is important to note that some results obtained in the R and Python scripts may differ from those in the report. The project was initially coded in R (with RStudio) and was transcribed into Python by myself for training.
 
 ## Important Note on Running the Bayesian Model
 
@@ -26,7 +26,7 @@ To download JAGS, please visit the file page of the mcmc-jags project on SourceF
 Estimating Chacma baboon population characteristics in the Garden Route National Park (South Africa) from opportunistic camera-trap data
 
 Ce projet vise à exploiter les pièges photographiques pour surveiller la biodiversité, en se concentrant sur le Babouin Chacma dans la région nord de Knysna, en Afrique du Sud. L'objectif principal est de développer un modèle pour évaluer les caractéristiques d'une population non marquée, en utilisant des images pour identifier les individus et analyser leurs interactions sociales et leur répartition. 
-Le rapport complet et les documents associés sont disponibles dans le dépôt du projet.
+Le rapport complet et les documents associés sont disponibles dans le dépôt du projet. Le projet a été initialement codé en R (avec RStudio) et a par la suite été transcrit par moi-même en Python dans le but de m'entrainer.
 
 
 ## Contexte
